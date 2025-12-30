@@ -1,3 +1,7 @@
 pandas
+matplotlib
 Install using:
 pip install pandas
+pip install matplotlib
+run it:
+python sales_analysis.py
