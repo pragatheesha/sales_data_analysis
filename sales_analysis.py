@@ -1,4 +1,6 @@
 import pandas as pd
+import  matplotlib.pyplot as plt
+
 df = pd.read_csv("sales_data.csv")
 df
 
@@ -15,7 +17,6 @@ print(f"Total Revenue: ₹{total_revenue}")
 print(f"Best Selling Product: {best_product}")
 print(f"Revenue from Best Product: ₹{best_product_sales}")
 
-import  matplotlib.pyplot as plt
 plt.figure()
 product_total_sales = df.groupby("Product")["Total_Sales"].sum()
 product_total_sales.plot(kind="bar")
