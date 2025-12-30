@@ -18,9 +18,9 @@ The dataset contains:
 4. Identified the best-selling product.
 
 # Findings
-- Total revenue generated: ₹2430
-- Best selling product: Laptop
-- Highest revenue contributor: Laptop
+- Total Revenue: ₹12365048
+- Best Selling Product: Laptop
+- Revenue from Best Product: ₹3889210
 
 # Data Visualization
 A bar chart was created using Matplotlib to visualize total sales by product.
