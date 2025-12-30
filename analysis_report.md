@@ -28,5 +28,3 @@ The chart clearly shows that the Laptop category generates the highest revenue.
 
 # Conclusion
 The Laptop product generates the highest revenue and should be prioritized in inventory and marketing strategies.
-## Conclusion
-The Laptop product generates the highest revenue and should be prioritized in inventory and marketing strategies.
